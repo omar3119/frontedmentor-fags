@@ -14,6 +14,7 @@
   padding: 24px;
   border-radius: 10px;
   margin-top: 142px;
+  box-shadow: -1px 150px 20px 5px hsla(293, 16%, 49%, 0.256);
   z-index: 1;
 }
 
@@ -38,7 +39,7 @@
 
 @media (width > 700px) {
   .container__fags {
-    margin-top: 190px;
+    margin-top: 155px;
   }
   .bg-mobile {
     display: none;
@@ -53,8 +54,5 @@
   .container__title {
     padding-bottom: 12px;
   }
-  
- 
-
   
 }
