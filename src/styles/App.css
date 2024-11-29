@@ -47,4 +47,14 @@
   .bg-desktop {
     display: block;
   }
+  .container__title h1{
+    font-size: 64px;
+  }
+  .container__title {
+    padding-bottom: 12px;
+  }
+  
+ 
+
+  
 }
